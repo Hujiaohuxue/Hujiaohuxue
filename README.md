@@ -2,9 +2,11 @@
 <h3 align="center">A 社畜 oier in Guanghzou China</h3>
 
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/f5djx291.png)
+
 
 ---
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/f5djx291.png)
 
 - 🔭 I’m currently ing on [Guangdafuzhong](https://www.gdfz.edu.cn/)
 
